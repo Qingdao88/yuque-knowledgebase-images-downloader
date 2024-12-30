@@ -1,0 +1,15 @@
+{
+  "name": "yuque-knowledgebase-images-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Qingdao88",
+  "license": "ISC",
+  "type": "module",
+  "description": "用于自动化下载语雀知识库中所有图片的工具",
+  "dependencies": {
+    "puppeteer-core": "^23.11.1"
+  }
+}
